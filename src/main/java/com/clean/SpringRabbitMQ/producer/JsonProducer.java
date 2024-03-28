@@ -1,4 +1,4 @@
-package com.clean.SpringRabbitMQ.publisher;
+package com.clean.SpringRabbitMQ.producer;
 
 import com.clean.SpringRabbitMQ.dto.Author;
 import org.slf4j.Logger;

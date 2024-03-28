@@ -1,8 +1,6 @@
 package com.clean.SpringRabbitMQ.controller;
 
-import com.clean.SpringRabbitMQ.dto.Author;
-import com.clean.SpringRabbitMQ.publisher.JsonProducer;
-import com.clean.SpringRabbitMQ.publisher.Producer;
+import com.clean.SpringRabbitMQ.producer.Producer;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
